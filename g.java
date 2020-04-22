@@ -9,5 +9,6 @@ public class g {
 		public static void mt()
 		{
 			System.out.println("Gotovo je roleee");
+			System.out.println("");
 		}
 }
